@@ -1,6 +1,14 @@
  <h3>Hi there 👋</h3>
+ 
+<div>
+ UI/UX Developer from Elkhart, IN. Self-taught with a focus on functional programming.
+</div>
 
-I like writing code and helping others learn JavaScript and it's entire ecosystem. If I'm not at work I'm working on a side project. 😎
+<div>
+ Interested in all front-end technologies.
+ Experience developing dynamic user interfaces in JavaScript, DOM manipulation, managing state, consuming API's, HTTP Protocol,
+ writing queries in SQL, and building API's in Node with RESTful architecture.
+</div>
 
 ### Front-end
 
