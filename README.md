@@ -1,7 +1,7 @@
  <h3>Hi there 👋</h3>
  
 <p>
- Software Developer from Elkhart, IN. Self-taught with a focus on functional programming.
+ Software Developer from Elkhart, IN. Self-taught with a focus on => functional programming.
 </p>
 
 <p>
