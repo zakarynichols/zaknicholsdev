@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/folder_type_php.svg" width="32" height="32">
 </p>
 
-# Tools
+### Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" width="32" height="32">
