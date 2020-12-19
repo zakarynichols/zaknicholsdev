@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pgsql.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" width="32" height="32">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/folder_type_php.svg" width="32" height="32">
 </p>
 
 ### Tools
