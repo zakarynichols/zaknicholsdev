@@ -3,6 +3,7 @@
 const readThisFirst = {
   greetings: "Hi there! 👋",
   myNameIs: "Zak Nichols",
+  likesCoffee: true,
   occupation: "Software Developer",
   usually: "Building web applications with JavaScript, in particular, React ⚛️",
   currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
