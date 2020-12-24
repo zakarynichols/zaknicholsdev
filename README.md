@@ -11,7 +11,7 @@ const readThisFirst = {
 ```
  
 <p>
- Software Developer from Elkhart, IN. Self-taught with a focus on () => <strong>Functional Programming</strong>.
+ Software Developer from Elkhart, IN. Self-taught with a focus on ```js(() => 'Functional Programming')();```
 </p>
 
 <p>
