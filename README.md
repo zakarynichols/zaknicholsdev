@@ -1,4 +1,12 @@
- <h3>Hi there 👋</h3>
+ 
+ ```js
+const readThisFirst = {
+  greetings: "Hi there! 👋",
+  myNameIs: "Zak Nichols",
+  usually: "Building applications with JavaScript, in particular, React ⚛️",
+  currently: "Using React, Ionic, and Capacitor to write iOS and Android apps.",
+};
+```
  
 <p>
  Software Developer from Elkhart, IN. Self-taught with a focus on () => <strong>Functional Programming</strong>.
