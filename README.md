@@ -9,7 +9,7 @@ const welcome = {
   currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
 };
 
-const favParadigm = (paradigm) => (`${paradigm} Programming!`)
+const favParadigm = (paradigm) => (`${paradigm} Programming!`);
 favParadigm('Functional');
 ```
 
