@@ -1,17 +1,18 @@
  
  ```js
-const readThisFirst = {
+const welcome = {
   greetings: "Hi there! 👋",
   myNameIs: "Zak Nichols",
-  likesCoffee: true,
   occupation: "Software Developer",
+  likesCoffee: true,
   usually: "Building web applications with JavaScript, in particular, React ⚛️",
   currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
 };
 
 // Professional Software Developer from 
 // Elkhart, IN. Self-taught with a focus on
-(() => 'Functional Programming')();
+const favParadigm = (paradigm) => (`${paradigm} Programming!`)
+favParadigm('Functional');
 ```
 
 <p>
