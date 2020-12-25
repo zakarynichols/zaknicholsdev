@@ -9,14 +9,12 @@ const welcome = {
   currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
 };
 
-// Professional Software Developer from 
-// Elkhart, IN. Self-taught with a focus on
 const favParadigm = (paradigm) => (`${paradigm} Programming!`)
 favParadigm('Functional');
 ```
 
 <p>
- Interested in all front-end technologies.
+ Professional software developer with a focus on functional programming. Interested in all front-end technologies.
  Experience developing dynamic user interfaces in JavaScript, DOM manipulation, managing state, consuming API's, HTTP Protocol,
  writing queries in SQL, and building API's in Node with RESTful architecture.
 </p>
