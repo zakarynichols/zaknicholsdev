@@ -1,12 +1,21 @@
  
  ```js
-const welcome = {
-  greetings: "Hi there! 👋",
-  myNameIs: "Zak Nichols",
-  occupation: "Software Developer",
-  likesCoffee: true,
-  usually: "Building web applications with JavaScript, in particular, React ⚛️",
-  currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
+ interface Welcome {
+  greetings: string;
+  myNameIs: string;
+  occupation: string;
+  likesCoffee: boolean;
+  usually: string;
+  currently: string;
+};
+
+const welcome: Welcome = {
+ greetings: "Hi there! 👋",
+ myNameIs: "Zak Nichols",
+ occupation: "Software Developer",
+ likesCoffee: true,
+ usually: "Building web applications with JavaScript, in particular, React ⚛️",
+ currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
 };
 
 const favParadigm = (paradigm: string): string => (`${paradigm} Programming!`);
