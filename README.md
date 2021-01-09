@@ -1,15 +1,6 @@
  
  ```js
- interface Welcome {
-  greetings: string;
-  myNameIs: string;
-  occupation: string;
-  likesCoffee: boolean;
-  usually: string;
-  currently: string;
-};
-
-const welcome: Welcome = {
+const welcome = {
  greetings: "Hi there! 👋",
  myNameIs: "Zak Nichols",
  occupation: "Software Developer",
@@ -18,8 +9,8 @@ const welcome: Welcome = {
  currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
 };
 
-const favParadigm = (paradigm: string): string => (`${paradigm} Programming!`);
-const myFavorite: string = favParadigm('Functional');
+const favParadigm = (paradigm) => (`${paradigm} Programming!`);
+const myFavorite = favParadigm('Functional');
 ```
 
 <p>
