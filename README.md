@@ -19,7 +19,7 @@ const myFavorite = favParadigm('Functional');
  writing queries in SQL, and building API's in Node with RESTful architecture.
 </p>
 
-### Front-end
+### Technologies
 
 <p>
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" width="32" height="32">
@@ -27,20 +27,10 @@ const myFavorite = favParadigm('Functional');
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_ionic.svg" width="32" height="32">
-</p>
-
-### Back-end
-
-<p>
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pgsql.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" width="32" height="32">
-</p>
-
-### Tools
-
-<p>
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="32" height="32">
-</p>
+ </p>
