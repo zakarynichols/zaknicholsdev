@@ -33,4 +33,6 @@ const myFavorite = favParadigm('Functional');
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" width="32" height="32">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="32" height="32">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" height="32">
  </p>
