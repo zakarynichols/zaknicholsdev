@@ -14,7 +14,7 @@ const myFavorite = favParadigm('Functional');
 ```
 
 <p>
- Professional software developer with a focus on functional programming. Interested in all front-end technologies.
+ Professional software developer interested in all web technologies.
  Experience developing dynamic user interfaces in JavaScript, DOM manipulation, managing state, consuming API's, HTTP Protocol,
  writing queries in SQL, and building API's in Node with RESTful architecture.
 </p>
