@@ -1,16 +1,13 @@
  
  ```js
 const welcome = {
-    greetings: "Hi there! 👋",
+    greetings: "Hi there!",
     myNameIs: "Zak Nichols",
-    occupation: "Software Developer",
+    occupation: "Software Engineer",
     likesCoffee: true,
-    usually: "Building web applications with JavaScript, in particular, React ⚛️",
-    currently: "Using React, Ionic, and Capacitor to write iOS and Android apps."
+    usually: "Building web applications with JavaScript, in particular, React",
+    currently: "Having too much fun with Go"
 };
-
-const favParadigm = (paradigm) => (`${paradigm} Programming!`);
-const myFavorite = favParadigm('Functional');
 ```
 
 <p>
