@@ -5,8 +5,8 @@ const welcome = {
     myNameIs: "Zak Nichols",
     occupation: "Software Engineer",
     likesCoffee: true,
-    usually: "Building web applications with JavaScript, in particular, React",
-    currently: "Having too much fun with Go"
+    usually: "Writing web applications with JavaScript, in particular, React",
+    currently: "Developing web servers and CLI's in Go"
 };
 ```
 
