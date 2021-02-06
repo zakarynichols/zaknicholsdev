@@ -1,11 +1,9 @@
  
  ```js
 const welcome = {
-    greetings: "Hi there!",
     myNameIs: "Zak Nichols",
-    occupation: "Software Engineer",
+    occupation: "Full-Stack Software Engineer",
     likesCoffee: true,
-    usually: "Writing full-stack web applications",
     currently: "Developing CLI tools and web servers in Go"
 };
 ```
