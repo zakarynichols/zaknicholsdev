@@ -1,3 +1,4 @@
+ Full-Stack Software Engineer from Elkhart, IN. Currently working at Spectrum Net Designs. Self-taught with a focus on functional programming and object-oriented programming.
  
  ```js
 const welcome = {
