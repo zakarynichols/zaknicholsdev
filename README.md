@@ -1,4 +1,4 @@
- Full-Stack Software Developer from Elkhart, IN. Currently working at Spectrum Net Designs. Self-taught with a focus on functional programming and object-oriented programming. Interested in all web technologies.
+ Full-Stack Software Developer from Elkhart, IN. Self-taught with a focus on functional programming and object-oriented programming. Interested in all web technologies.
  
  ```js
 const welcome = {
