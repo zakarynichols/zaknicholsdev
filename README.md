@@ -1,11 +1,11 @@
  Full-Stack Software Developer from Elkhart, IN. Self-taught with a focus on functional programming and object-oriented programming. Interested in all web technologies.
  
  ```js
-const welcome = {
-    myNameIs: "Zak Nichols",
-    occupation: "Full-Stack Software Developer",
+const bio = {
+    name: "Zak Nichols",
+    occupation: "Front End Software Developer",
     likesCoffee: true,
-    currently: "Developing CLI tools and web servers in Go"
+    currently: "Writing legal software for law firm litigators."
 };
 ```
 
