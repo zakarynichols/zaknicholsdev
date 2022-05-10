@@ -1,1 +1,3 @@
-Software developer
+`.ts`
+`.tsx`
+`.go`
